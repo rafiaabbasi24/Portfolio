@@ -1,0 +1,44 @@
+RAFIA ABBASI
++91-8791420361
+rafiaabbasi9000@gmail.com
+LinkedIn | GitHub
+
+EDUCATION
+Graphic Era Hill University, Dehradun
+B.Tech in Computer Science Engineering
+2022–2026
+CGPA: 8.30 / 10.0
+
+TECHNICAL SKILLS
+• Languages: C++, C, JavaScript, TypeScript, Java, Python, HTML, CSS, SQL
+• Frameworks & Libraries: React.js, Next.js, Node.js, Express.js, Tailwind CSS, Flask
+• Databases & Cloud: MySQL, PostgreSQL, MongoDB, Firebase, AWS, Docker
+• Developer Tools: Git, GitHub, Jenkins, Postman, VS Code, Figma
+• Core Concepts: Data Structures & Algorithms, REST APIs, MVC Architecture, Agile Methodologies, NLP
+
+PROJECTS
+ParkNGo: Urban Parking and Reservation Platform
+Feb 2025– Mar 2025
+• Architected a full-stack parking platform with 12+ features, including real-time availability, reservations, and user authentication, by engineering over 25 secure REST APIs.
+• Optimized a MySQL database with Prisma ORM, achieving efficient data handling and API response times under 150ms.
+• Built a secure, role-based dashboard with 5+ analytical modules to monitor revenue and user growth.
+• Integrated the PayU payment gateway, implementing secure transaction protocols to achieve a 99.9% success rate.
+
+Resume-Job Matcher
+Jan 2025– Feb 2025
+• Built an automated resume-matching tool using Python and NLP, designed to reduce manual screening time by over 75%.
+• Engineered a data preprocessing pipeline that improved text extraction accuracy from PDF/DOCX files by over 95%.
+• Implemented TF-IDF and cosine similarity algorithms, achieving a 92% match accuracy rate.
+
+Disk Scheduling Algorithm Visualizer
+Oct 2024– Nov 2024
+• Created an interactive web-based tool to visualize six key disk scheduling algorithms, improving user comprehension by an estimated 40%.
+• Leveraged HTML5 Canvas for animations and used Plotly.js to generate 5+ real-time performance comparison charts.
+• Implemented a secure user authentication system using PHP and MySQL, providing personalized progress tracking for 50+ beta users.
+
+ACHIEVEMENTS & CERTIFICATIONS
+• Published a research paper, "Unlocking Blockchain," at the International Conference on Smart Electronics and Smart Systems (ICSES 2024).
+• Solved over 300+ problems on platforms like LeetCode and GeeksforGeeks, demonstrating strong proficiency in Data Structures and Algorithms.
+• Achieved Google Data Analytics Professional Certificate, gaining expertise in data cleaning, analysis, and visualization.
+• Engineered a fake profile detection model with 85% accuracy on a test dataset.
+• Coordinated 3+ community service events with a team of 15+ volunteers as part of the NSS, positively impacting over 200 local residents.
