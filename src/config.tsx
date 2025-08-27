@@ -39,21 +39,37 @@ const links = [
 
 const info = (
 	<>
-		<p>Hello! I'm Rafia Abbasi, a passionate Computer Science Engineering student.</p>
 		<p>
-			I'm currently pursuing my <span className="highlighted">B.Tech in Computer Science Engineering</span> at{' '}
-			<span className="highlighted">Graphic Era Hill University, Dehradun</span> with a CGPA of 8.30/10.0.
+			Hello! I'm Rafia Abbasi, a passionate Computer Science Engineering
+			student.
 		</p>
 		<p>
-			I specialize in <span className="highlighted">full-stack development</span> with expertise in{' '}
-			<span className="highlighted">React.js</span>, <span className="highlighted">Node.js</span>, and{' '}
-			<span className="highlighted">Python</span>. I love building innovative solutions and have worked on projects
-			ranging from parking platforms to AI-powered resume matching tools.
+			I'm currently pursuing my{' '}
+			<span className="highlighted">
+				B.Tech in Computer Science Engineering
+			</span>{' '}
+			at{' '}
+			<span className="highlighted">
+				Graphic Era Hill University, Dehradun
+			</span>{' '}
+			with a CGPA of 8.30/10.0.
 		</p>
 		<p>
-			I'm passionate about <span className="highlighted">Data Structures & Algorithms</span>,{' '}
-			<span className="highlighted">Machine Learning</span>, and <span className="highlighted">Cloud Technologies</span>.
-			I've solved 300+ problems on competitive programming platforms and published research on blockchain technology.
+			I specialize in{' '}
+			<span className="highlighted">full-stack development</span> with
+			expertise in <span className="highlighted">React.js</span>,{' '}
+			<span className="highlighted">Node.js</span>, and{' '}
+			<span className="highlighted">Python</span>. I love building
+			innovative solutions and have worked on projects ranging from
+			parking platforms to AI-powered resume matching tools.
+		</p>
+		<p>
+			I'm passionate about{' '}
+			<span className="highlighted">Data Structures & Algorithms</span>,{' '}
+			<span className="highlighted">Machine Learning</span>, and{' '}
+			<span className="highlighted">Cloud Technologies</span>. I've solved
+			300+ problems on competitive programming platforms and published
+			research on blockchain technology.
 		</p>
 	</>
 )
@@ -62,15 +78,38 @@ const education = {
 	school: 'Graphic Era Hill University, Dehradun',
 	degree: 'B.Tech in Computer Science Engineering',
 	period: '2022–2026',
-	cgpa: '8.30 / 10.0'
+	cgpa: '8.30 / 10.0',
 }
 
 const technicalSkills = {
-	languages: ['C++', 'C', 'JavaScript', 'TypeScript', 'Java', 'Python', 'HTML', 'CSS', 'SQL'],
-	frameworks: ['React.js', 'Next.js', 'Node.js', 'Express.js', 'Tailwind CSS', 'Flask'],
+	languages: [
+		'C++',
+		'C',
+		'JavaScript',
+		'TypeScript',
+		'Java',
+		'Python',
+		'HTML',
+		'CSS',
+		'SQL',
+	],
+	frameworks: [
+		'React.js',
+		'Next.js',
+		'Node.js',
+		'Express.js',
+		'Tailwind CSS',
+		'Flask',
+	],
 	databases: ['MySQL', 'PostgreSQL', 'MongoDB', 'Firebase', 'AWS', 'Docker'],
 	tools: ['Git', 'GitHub', 'Jenkins', 'Postman', 'VS Code', 'Figma'],
-	concepts: ['Data Structures & Algorithms', 'REST APIs', 'MVC Architecture', 'Agile Methodologies', 'NLP']
+	concepts: [
+		'Data Structures & Algorithms',
+		'REST APIs',
+		'MVC Architecture',
+		'Agile Methodologies',
+		'NLP',
+	],
 }
 
 const achievements = [
@@ -78,7 +117,7 @@ const achievements = [
 	'Solved over 300+ problems on platforms like LeetCode and GeeksforGeeks, demonstrating strong proficiency in Data Structures and Algorithms',
 	'Achieved Google Data Analytics Professional Certificate, gaining expertise in data cleaning, analysis, and visualization',
 	'Engineered a fake profile detection model with 85% accuracy on a test dataset',
-	'Coordinated 3+ community service events with a team of 15+ volunteers as part of the NSS, positively impacting over 200 local residents'
+	'Coordinated 3+ community service events with a team of 15+ volunteers as part of the NSS, positively impacting over 200 local residents',
 ]
 
 export {

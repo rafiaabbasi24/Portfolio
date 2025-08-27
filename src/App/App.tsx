@@ -88,7 +88,8 @@ class App extends Component<{}, AppState> {
 							<div className={styles.dot}></div>
 						</div>
 						<div className={styles.titleHeader}>
-							<i className="fa-fw fas fa-code"></i> Rafia Abbasi - Portfolio
+							<i className="fa-fw fas fa-code"></i> Rafia Abbasi -
+							Portfolio
 						</div>
 					</div>
 					<div ref={this.mainRef} className={styles.mainContent}>
